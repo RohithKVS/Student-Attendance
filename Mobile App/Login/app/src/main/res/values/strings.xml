@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="select_year">Select Year</string>
+    <string name="_1st_year">1st Year</string>
+    <string name="_2nd_year">2nd year</string>
+    <string name="_3rd_year">3rd year</string>
+    <string name="_4th_year">4th year</string>
+    <string name="cse_a">CSE-A</string>
+    <string name="cse_b">CSE-B</string>
+    <string name="cse_c">CSE-C</string>
+    <string name="cse_d">CSE-D</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="period">Period:</string>
+    <string name="submit">Submit</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="dash">-</string>
+    <string name="select_section">Select Section</string>
+
+</resources>

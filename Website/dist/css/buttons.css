@@ -1,0 +1,62 @@
+a.lin {
+    font-size: 25px;
+    font-family: Corbel, Arial;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.button {
+color:white;
+background-color:green;
+    padding: 10px;
+    text-align: center;
+	font-size:25px;
+    margin: 4px 2px;
+    cursor: pointer;
+font-family:Arial;
+}
+.required{
+	color: red;
+	display:inline;
+}
+a.black{
+	color:black;
+}
+
+a.normal {
+    color: white;
+    background-color: rgb(180, 24, 27);
+    text-decoration: none;
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: Corbel, Arial;
+    text-transform: uppercase;
+}
+
+a.normal:hover {
+    background-color: red;
+}
+
+.resetpass {
+    color: white;
+    background-color: rgb(217, 83, 79);
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Corbel, Arial;
+}
+
+table#form {
+    background-color: white;
+    font-family: Arial;
+    border: 5px solid;
+    border-color: rgb(68, 175, 225);
+    border-radius: 20px;
+    font-size: 15px;
+}
